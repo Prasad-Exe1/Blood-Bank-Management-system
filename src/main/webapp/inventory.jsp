@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Blood Inventory</title>
+    <title>Blood Inventory</title>      
 </head>
 <body>
     <h2>Blood Group Inventory Management</h2>
